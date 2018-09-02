@@ -1,5 +1,7 @@
 # stock
 
+# [DEMO](https://stock-trader254.netlify.com/)
+
 ## Project setup
 ```
 yarn install
